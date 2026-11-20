@@ -1,0 +1,1 @@
+"""FDOER-Net dataset configurations."""

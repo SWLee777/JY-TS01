@@ -1,0 +1,7 @@
+# Install PyTorch/CUDA first.
+timm==0.4.12
+einops==0.8.2
+
+# Install wheels or source builds matching the active PyTorch and CUDA versions.
+mamba-ssm==2.2.2
+causal-conv1d==1.4.0
